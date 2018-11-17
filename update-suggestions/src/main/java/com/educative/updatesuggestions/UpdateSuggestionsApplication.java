@@ -1,12 +1,12 @@
-package com.educative.retrievesuggestions.retrievesuggestions;
+package com.educative.updatesuggestions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RetrieveSuggestionsApplication {
+public class UpdateSuggestionsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RetrieveSuggestionsApplication.class, args);
+		SpringApplication.run(UpdateSuggestionsApplication.class, args);
 	}
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="retrieve-suggestions/src/main/java"/>
+	<classpathentry kind="src" path="retrieve-suggestions/src/test/java"/>
+	<classpathentry kind="src" path="update-suggestions/src/main/java"/>
+	<classpathentry kind="src" path="update-suggestions/src/test/java"/>
+	<classpathentry kind="lib" path="retrieve-suggestions/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="update-suggestions/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
